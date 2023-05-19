@@ -1,0 +1,19 @@
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\bin\Debug\net6.0-windows\Note-Taking App.exe
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\bin\Debug\net6.0-windows\Note-Taking App.deps.json
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\bin\Debug\net6.0-windows\Note-Taking App.runtimeconfig.json
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\bin\Debug\net6.0-windows\Note-Taking App.dll
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\bin\Debug\net6.0-windows\Note-Taking App.pdb
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.csproj.AssemblyReference.cache
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note_Taking_App.Form1.resources
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.csproj.GenerateResource.cache
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.AssemblyInfo.cs
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.dll
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\refint\Note-Taking App.dll
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.pdb
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note-Taking App.genruntimeconfig.cache
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\ref\Note-Taking App.dll
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note_Taking_App.note.resources
+C:\Projects\C# Projects\Note-Taking App\Note-Taking App\obj\Debug\net6.0-windows\Note_Taking_App.Properties.Resources.resources
